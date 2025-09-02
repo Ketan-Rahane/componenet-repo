@@ -4,7 +4,7 @@ function Greeting({name}) {
   return (
     <>
     <h1>Hello,{name}</h1>
-    <p>Welcome to our portal</p>
+    <p>Welcome to the react application!</p>
     </>
   )
 }
