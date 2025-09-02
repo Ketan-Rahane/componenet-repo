@@ -1,0 +1,14 @@
+Instructions to push to GitHub:
+
+1. Go to https://github.com and create a new repository named "component-repo"
+
+2. Copy the repository URL (it will look like: https://github.com/YOUR_USERNAME/component-repo.git)
+
+3. Run these commands in your terminal:
+
+git remote set-url origin https://github.com/YOUR_USERNAME/component-repo.git
+git push -u origin main
+
+Replace YOUR_USERNAME with your actual GitHub username.
+
+Your project is ready to push!
