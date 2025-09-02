@@ -4,7 +4,7 @@ function Greeting({name}) {
   return (
     <>
     <h1>Hello,{name}</h1>
-    <p>Sneha Behen ki lodi</p>
+    <p>Welcome to our portal</p>
     </>
   )
 }
